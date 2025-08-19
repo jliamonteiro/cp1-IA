@@ -3,18 +3,6 @@
 **Nome:** Julia Monteiro  
 **RM:** 557023
 
-## 📊 Sobre o Projeto
-
-Este projeto apresenta uma análise abrangente de dados de consumo elétrico residencial, explorando padrões temporais, correlações entre variáveis e aplicando técnicas de machine learning para segmentação e predição. Os dados analisados compreendem medições detalhadas de uma residência ao longo de aproximadamente 4 anos.
-
-## 🎯 Objetivos
-
-- Identificar padrões de consumo elétrico ao longo do tempo
-- Comparar diferenças de consumo entre dias úteis e fins de semana
-- Analisar correlações entre diferentes variáveis elétricas
-- Segmentar padrões de consumo usando clustering
-- Desenvolver modelos preditivos para consumo elétrico
-- Decompor séries temporais para entender tendências e sazonalidades
 
 ## 🔍 Metodologia e Análises Realizadas
 
@@ -79,23 +67,6 @@ Este projeto apresenta uma análise abrangente de dados de consumo elétrico res
   - **Resíduo:** Variações não explicadas pelos componentes anteriores
 - Análise de cada componente individualmente
 
-## 🛠️ Tecnologias Utilizadas
-
-### **Bibliotecas Python:**
-- **pandas:** Manipulação e análise de dados
-- **matplotlib:** Visualizações básicas
-- **seaborn:** Visualizações estatísticas avançadas
-- **scikit-learn:** Machine learning (clustering, regressão, normalização)
-- **statsmodels:** Análise estatística e decomposição temporal
-- **numpy:** Operações numéricas
-
-### **Técnicas Aplicadas:**
-- Análise exploratória de dados (EDA)
-- Engenharia de features
-- Clustering não-supervisionado
-- Regressão linear
-- Decomposição de séries temporais
-- Normalização de dados
 
 ## 🚀 Como Executar
 
