@@ -72,7 +72,7 @@
 
 ### **Pré-requisitos:**
 1. Python 3.7+ instalado
-2. Dataset `household_power_consumption.txt` disponível
+2. Dataset `household_power_consumption.txt` disponível, ele está em zip pois é muito pesado, então retire do diretório e suba somente o txt
 
 ### **Instalação das Dependências:**
 ```bash
