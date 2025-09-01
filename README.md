@@ -8,6 +8,8 @@ Este projeto realiza uma análise abrangente do consumo elétrico residencial ut
 - **Julia Monteiro** - RM: 557023
 - **Lucas de Assis Fialho** - RM: 557884
 - **Sofia Andrade Petruk** - RM: 556585
+- **João Pedro Amorim** - RM: 559213
+- **Alice Teixeira Caldeira** - RM: 556293
 
 ## Objetivos
 - Analisar padrões temporais de consumo elétrico
